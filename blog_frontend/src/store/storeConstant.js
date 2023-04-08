@@ -1,0 +1,1 @@
+export const SIGNUP_ACTION= '[action] signup user'
